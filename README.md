@@ -65,10 +65,10 @@ python musify.ipynb
 
 ## 👩‍💻 Authors 
 Kanika Kamalhans <br/>
-Anushka Gupta
+Anushka Gupta <br/>
 Indira Gandhi Delhi Technical University for Women
 
-**December 2022
-DOI:10.1109/AIST55798.2022.10065226
+**December 2022 <br/>
+DOI:10.1109/AIST55798.2022.10065226 <br/>
 Conference: 2022 4th International Conference on Artificial Intelligence and Speech Technology (AIST)**
 
