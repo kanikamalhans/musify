@@ -64,7 +64,7 @@ python musify.ipynb
 - Set up environment variables or paste credentials in the notebook.
 
 ## 👩‍💻 Authors 
-Kanika Kamalhans
+Kanika Kamalhans <br/>
 Anushka Gupta
 Indira Gandhi Delhi Technical University for Women
 
