@@ -63,16 +63,6 @@ python musify.ipynb
 - Create an app and get your Client ID and Client Secret
 - Set up environment variables or paste credentials in the notebook.
 
-🔮 Future Work
-Integration with live user listening data.
-
-Deploy as a web app using Flask/Streamlit.
-
-Include sentiment analysis of song lyrics.
-
-Build personalized playlist recommendations using machine learning.
-
-
 ## 👩‍💻 Authors 
 Kanika Kamalhans
 Anushka Gupta
